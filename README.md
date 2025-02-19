@@ -118,3 +118,24 @@ VALUES
     (39, 'ESN protein alm & coco' 381.00, 7.10, 73.00, 5.60, 'food'),
     (40, 'Banana', 89.00, 22.84, 1.10, 0.00, 'food'),
     (41, 'Olive Oil', 822.00, 00.00, 00.00, 00.00, 'drink');
+
+    
+
+---
+
+## Credits:
+
+This project was developed as part of my learning process in Python, focusing on object-oriented programming (OOP), GUI development using Tkinter, and database interaction with PostgreSQL.
+
+The main goal of this project was to build an interactive and practical application that allows users to track their daily nutritional intake in an efficient and structured way. The project integrates various OOP principles such as inheritance, polymorphism, and encapsulation to create a modular and scalable codebase.
+
+Additionally, working with Tkinter for GUI development helped enhance my understanding of event-driven programming and user interface design, while PostgreSQL provided hands-on experience in database management and query execution.
+
+**Key Learning Areas:**  
+- Object-Oriented Programming (OOP)  
+- GUI development with Tkinter  
+- Database integration with PostgreSQL  
+- File handling and data persistence  
+- Interactive command processing  
+
+**Developer:** [Toma Paraschiv]
