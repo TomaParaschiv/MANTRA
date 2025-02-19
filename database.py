@@ -1,7 +1,6 @@
 import psycopg2
 #------------------------------------------------------------------#
 #------------------------- DATABASE CLASS -------------------------#
-# Resposta 1a
 class Database:
     def __init__(self, db_name, user, password, host="localhost", port="5432"):
         """
